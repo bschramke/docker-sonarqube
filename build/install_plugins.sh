@@ -36,7 +36,7 @@ install_sonar_plugin sonar-json-plugin 1.4 https://github.com/racodond/sonar-jso
 install_sonar_plugin sonar-findbugs-plugin 3.3
 install_sonar_plugin sonar-checkstyle-plugin 2.4
 install_sonar_plugin sonar-pmd-plugin 2.5
-#install_sonar_plugin sonar-generic-coverage 1.2
+install_sonar_plugin sonar-generic-coverage 1.2 https://sonarsource.bintray.com/Distribution/sonar-generic-coverage/sonar-generic-coverage-plugin-1.2.jar
 install_sonar_plugin qualinsight-plugins-sonarqube-smell 3.0.0 https://github.com/QualInsight/qualinsight-plugins-sonarqube-smell/releases/download/qualinsight-plugins-sonarqube-smell-3.0.0/qualinsight-plugins-sonarqube-smell-plugin-3.0.0.jar
 
 #other plugins
